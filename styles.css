@@ -28,7 +28,7 @@ body {
 
 header {
     margin: 50px 240px 130px 161px;
-    width: auto;
+    width: 1248px;
     height: 60px;
     display: flex;
     justify-content: space-between;
@@ -128,7 +128,7 @@ header>nav>a:active {
 
 .headerButton {
     height: 100%;
-    right: 0px;
+    right: 128px;
     position: absolute;
 }
 
@@ -359,7 +359,7 @@ header>nav>a:active {
 }
 
 .security {
-    bottom: 0px;
+    top: 460px;
     right: 0px;
     position: absolute;
     width: 515.06px;
@@ -373,7 +373,7 @@ header>nav>a:active {
 
 
 .searchData>img {
-    margin-top: 103px;
+    margin-top: 93px;
     margin-left: 0px;
     margin-right: 0px;
     width: 232px;
@@ -381,7 +381,7 @@ header>nav>a:active {
 }
 
 .searchData>div {
-    margin-left: 29.29px;
+    margin-left: 39.29px;
     margin-top: 79px;
     position: relative;
 }
@@ -461,7 +461,7 @@ header>nav>a:active {
 
 
 .access>img {
-    margin-top: 22px;
+    margin-top: 12px;
     margin-left: 0px;
     margin-right: 0px;
     width: 241px;
@@ -469,7 +469,7 @@ header>nav>a:active {
 }
 
 .access>div {
-    margin-left: 33.28px;
+    margin-left: 47.28px;
     margin-top: 0px;
     position: relative;
 
@@ -500,17 +500,15 @@ header>nav>a:active {
 
 .printOut>img {
     margin-top: 101px;
-    margin-left: 0px;
-    margin-right: 0px;
+  
     width: 245px;
     height: 181px;
-    /* position: absolute;
-    left: 0px; */
+  
 }
 
 .printOut>div {
     margin-top: 0px;
-    margin-left: 35px;
+    margin-left: 25px;
     /* border: solid; */
     position: relative;
 
@@ -531,14 +529,14 @@ header>nav>a:active {
 
 .printOut>div>a {
     position: absolute;
-    top: 277px;
+    top: 307px;
     left: 0;
 
 }
 
 /* 'Security' picture block */
 .security>img {
-    margin-top: 92px;
+    margin-top: 52px;
     margin-left: 0px;
     margin-right: 0px;
     width: 230px;
@@ -547,7 +545,7 @@ header>nav>a:active {
 
 .security>div {
     margin-top: 0px;
-    margin-left: 39px;
+    margin-left: 29px;
     /* border: solid; */
     position: relative;
 
@@ -555,14 +553,14 @@ header>nav>a:active {
 
 .security>div>h3 {
 
-    top: 55px;
+    top: 27px;
     left: 0;
     position: absolute;
 }
 
 .security>div>p {
     position: absolute;
-    top: 125px;
+    top: 97px;
     left: 0;
 }
 
@@ -935,6 +933,9 @@ ul {
 }
 
 .footer-2>p {
+    padding-top: 10px;
+    width: 360px;
+    height: 50px;
     font-family: 'Avenir';
     font-style: normal;
     font-weight: 400;
