@@ -151,14 +151,13 @@ header>nav>a:active {
 
 .mainPage {
     margin-left: 240px;
-    width: 1248px;
+    width: 1136px;
     height: 564px;
     background-image: url(./PIC/image1\ 1.svg);
     background-position-x: right;
     background-position-y: bottom;
     background-repeat: no-repeat;
-    background-size: 885px;
-    /* border: 1px solid black; */
+    background-size: 70%;
 }
 
 .mainPage>h1 {
