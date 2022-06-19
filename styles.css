@@ -27,7 +27,7 @@ body {
 
 
 header {
-    margin: 50px 240px 130px 240px;
+    margin: 50px 240px 130px 161px;
     width: auto;
     height: 60px;
     display: flex;
@@ -150,7 +150,7 @@ header>nav>a:active {
 
 
 .mainPage {
-    margin-left: 240px;
+    margin-left: 161px;
     width: 1136px;
     height: 564px;
     background-image: url(./PIC/image1\ 1.svg);
@@ -220,7 +220,7 @@ header>nav>a:active {
 
 .info {
     margin-top: 99.2px;
-    margin-left: 240px;
+    margin-left: 161px;
     display: flex;
     width: 1117px;
     height: 560px;
@@ -271,7 +271,7 @@ header>nav>a:active {
 
 .featureBlock {
     margin-top: 149.8px;
-    margin-left: 507.3px;
+    margin-left: 428.3px;
     width: 584px;
     height: 160px;
 
@@ -314,7 +314,7 @@ header>nav>a:active {
 
 .blockPic {
     margin-top: 70px;
-    margin-left: 220px;
+    margin-left: 141px;
     margin-right: 243.15px;
     width: 1136.85px;
     height: 763px;
@@ -578,7 +578,7 @@ header>nav>a:active {
 
 .feedback {
     margin-top: 173.94px;
-    margin-left: 242px;
+    margin-left: 163px;
     width: 1118px;
     height: 709px;
     background: #9C69E2;
@@ -721,7 +721,7 @@ hr {
 
 
 .tryFree {
-    margin-left: 240px;
+    margin-left: 161px;
     display: flex;
     width: 1117px;
     height: 101px;
@@ -780,7 +780,7 @@ footer {
     width: 1117px;
     height: 498px;
     margin-top: 153px;
-    margin-left: 240px;
+    margin-left: 161px;
 }
 
 .footerMenu {
@@ -905,6 +905,7 @@ ul {
 .socMedia {
 
     margin-left: 50px;
+
     width: 178px;
     height: 110px;
 }
